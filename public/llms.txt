@@ -1,0 +1,11 @@
+# WorkSmart AI Assistant
+
+> AI-powered workplace productivity platform: email generator, task planner, and workplace chatbot in one dashboard.
+
+## Pages
+- [Dashboard](/): Productivity overview, quick actions, and AI insights
+- [Smart Email Generator](/email): Generate professional emails in any tone
+- [AI Task Planner](/planner): Turn task lists into prioritized daily or weekly schedules
+- [AI Chatbot](/chat): Conversational workplace assistant
+- [Analytics](/analytics): Productivity and AI usage trends
+- [Help Center](/help): How to use each module

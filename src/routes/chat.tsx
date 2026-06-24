@@ -1,4 +1,4 @@
-import { createFileRoute, Outlet, useNavigate, useParams, Link, useRouterState } from "@tanstack/react-router";
+import { createFileRoute, Outlet, useNavigate, Link, useRouterState } from "@tanstack/react-router";
 import { useEffect } from "react";
 import { useChatThreads } from "@/hooks/use-chat-threads";
 import { Button } from "@/components/ui/button";
